@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ff77707-5a71-48d9-a175-e084f1d7d9b8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RA_Session8_baitap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT1/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT2/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT2/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT3/MoveablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT3/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT4/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT4/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2Wa1EHNnNtmDn2Uz7SjwY2bnthC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/java_project_MD03/Session8_Thuc_hanh",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "E:/java_project_MD03/RA_Session8_baitap/src/Main.java",
+    "settings.editor.selected.configurable": "copyright",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ff77707-5a71-48d9-a175-e084f1d7d9b8" name="Changes" comment="" />
+      <created>1696955765706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696955765706</updated>
+      <workItem from="1696955766828" duration="1049000" />
+      <workItem from="1696990469704" duration="1813000" />
+      <workItem from="1697013776019" duration="419000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
